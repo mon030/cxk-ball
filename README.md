@@ -1,5 +1,8 @@
 <img src="https://i.imgur.com/aoB8Er1.png" align=right />
-
+# 注意!
+本项目fork自[CXK球](https://github.com/kasuganosoras/cxk-ball)
+# 二次修改的地方
+添加了进入游戏前的警告页面，并加入了个人使用的文件。。
 # 🏀 CXK 打篮球
 
 本项目是 CXK 打篮球的游戏，原项目：[h5-game-blockBreaker](https://github.com/yangyunhe369/h5-game-blockBreaker)
